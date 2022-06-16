@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OTAKU</string>
+    <string name="banner_msg">OTAKU</string>
+    <string name="banner_des">The Online Learning Platform</string>
+    <string name="emailhint">Enter Email</string>
+    <string name="passwordhint">Enter Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="register">Register</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_mail_id">Enter Mail ID</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="select_your_category">Select Your Category</string>
+    <string name="cyber_security_crew">Cyber Security Crew</string>
+    <string name="networking_crew">Networking Crew</string>
+    <string name="search_module">Search in Otaku</string>
+    <string-array name="category">
+        <item>Technology</item>
+        <item>Education</item>
+        <item>Photography</item>
+        <item>Cyber Security</item>
+        <item>Arts</item>
+        <item>Web and App Development</item>
+    </string-array>
+</resources>

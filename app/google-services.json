@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847681355448",
+    "project_id": "otaku-f86f6",
+    "storage_bucket": "otaku-f86f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847681355448:android:edb2f3ebd13db47b923e4d",
+        "android_client_info": {
+          "package_name": "com.rajhesh.otaku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847681355448-j7s4e3ff19omvs5197rm4ed66nevfn2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4q-wg5IXCq-QlQtdvA8u0_0xaCYUGmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847681355448-j7s4e3ff19omvs5197rm4ed66nevfn2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
